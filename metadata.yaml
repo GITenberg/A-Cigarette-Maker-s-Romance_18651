@@ -1,0 +1,29 @@
+_repo: A-Cigarette-Maker-s-Romance_18651
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crawford, F. Marion (Francis Marion)
+    alias: Crawford, Francis Marion
+    birthdate: 1854
+    deathdate: 1909
+    gutenberg_agent_id: '1316'
+    url: http://www.gutenberg.org/2009/agents/1316
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Marion_Crawford
+description: ''
+gutenberg_bookshelf: Contemporary Reviews
+gutenberg_issued: '2006-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18651'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cigarette industry -- Fiction'
+- !lcc 'PS'
+title: A Cigarette-Maker's Romance
+url: http://www.gutenberg.org/ebooks/18651
