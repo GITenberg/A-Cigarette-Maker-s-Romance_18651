@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1316
     wikipedia: http://en.wikipedia.org/wiki/Francis_Marion_Crawford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18651#A-Cigarette-Maker-s-Romance
 gutenberg_bookshelf: Contemporary Reviews
 gutenberg_issued: '2006-06-22'
 gutenberg_type: Text
